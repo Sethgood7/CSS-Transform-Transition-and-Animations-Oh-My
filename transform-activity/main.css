@@ -8,8 +8,6 @@ main {
   height: 90vh;
   width: 100vh;
   margin: auto;
-  display: flex;
-  align-items: center;
 }
 
 main > div {
